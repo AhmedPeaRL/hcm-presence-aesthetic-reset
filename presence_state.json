@@ -1,0 +1,9 @@
+{
+  "state": "presence",
+  "mode": "aesthetic-reset",
+  "intent": "none",
+  "addressing": false,
+  "invitation": false,
+  "response_expected": false,
+  "principle": "Presence is complete without interaction."
+}
