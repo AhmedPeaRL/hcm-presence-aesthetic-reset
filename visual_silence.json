@@ -1,0 +1,13 @@
+{
+  "visual_language": {
+    "minimal": true,
+    "symbolic": true,
+    "explanatory": false
+  },
+  "elements": {
+    "text": "optional",
+    "symbols": "allowed",
+    "buttons": "non-instructional"
+  },
+  "principle": "What appears must not explain itself."
+}
