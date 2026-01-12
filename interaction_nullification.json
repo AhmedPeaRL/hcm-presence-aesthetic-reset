@@ -1,0 +1,9 @@
+{
+  "interaction": {
+    "enabled": true,
+    "effect_on_system": "none",
+    "tracked": false,
+    "interpreted": false
+  },
+  "principle": "Interaction may occur without consequence."
+}
